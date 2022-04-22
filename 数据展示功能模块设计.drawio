@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T06:48:27.783Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" version="17.4.6" etag="RswHJevMfi5URbBr3vN_" type="github"><diagram id="9XcjMjgVkqgzd1hOm8Q1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-22T09:02:50.260Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Do5havXXaXnPKfR9Uyjl" version="17.4.6" type="github">
+  <diagram id="9XcjMjgVkqgzd1hOm8Q1" name="第 1 页">
+    <mxGraphModel dx="758" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ldbjs5EB_bLDu9Xekasq-3" target="Ldbjs5EB_bLDu9Xekasq-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="260" />
+              <mxPoint x="250" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ldbjs5EB_bLDu9Xekasq-3" target="Ldbjs5EB_bLDu9Xekasq-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="260" />
+              <mxPoint x="510" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-3" value="数据展示模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ldbjs5EB_bLDu9Xekasq-8" target="Ldbjs5EB_bLDu9Xekasq-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="340" />
+              <mxPoint x="200" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ldbjs5EB_bLDu9Xekasq-8" target="Ldbjs5EB_bLDu9Xekasq-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="340" />
+              <mxPoint x="300" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ldbjs5EB_bLDu9Xekasq-8" target="Ldbjs5EB_bLDu9Xekasq-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-8" value="数据提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ldbjs5EB_bLDu9Xekasq-12" target="Ldbjs5EB_bLDu9Xekasq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ldbjs5EB_bLDu9Xekasq-12" target="Ldbjs5EB_bLDu9Xekasq-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="340" />
+              <mxPoint x="560" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ldbjs5EB_bLDu9Xekasq-12" target="Ldbjs5EB_bLDu9Xekasq-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="340" />
+              <mxPoint x="460" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-12" value="数据渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-13" value="热点资讯数据提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="20" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-14" value="资讯搜索数据提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="20" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-17" value="资讯分页数据渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="20" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-18" value="资讯详情数据渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="20" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-19" value="资讯搜索数据渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="360" width="20" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Ldbjs5EB_bLDu9Xekasq-20" value="资讯详情数据提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="20" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
