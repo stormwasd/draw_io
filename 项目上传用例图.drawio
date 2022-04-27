@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T08:42:45.120Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="5OfhJ_ic3UYBanR1nW4R" type="github"><diagram id="92yBNCTjXzjypf9_GEnJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-27T00:20:39.116Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="QjO9px7spnM7WL4iyOb0" version="17.4.6" type="github">
+  <diagram id="92yBNCTjXzjypf9_GEnJ" name="第 1 页">
+    <mxGraphModel dx="1790" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jDHJyXETL7V7EpF_HSx--1" value="管理人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDHJyXETL7V7EpF_HSx--2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="340" width="390" height="372.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jDHJyXETL7V7EpF_HSx--8" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;图片上传&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="350" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDHJyXETL7V7EpF_HSx--11" value="图片上传&lt;br&gt;Flask接口上传" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDHJyXETL7V7EpF_HSx--14" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;entryX=0.003;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jDHJyXETL7V7EpF_HSx--11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="520" as="sourcePoint" />
+            <mxPoint x="240" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jDHJyXETL7V7EpF_HSx--25" value="Flask接口" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="630" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jDHJyXETL7V7EpF_HSx--26" value="Extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jDHJyXETL7V7EpF_HSx--25" target="jDHJyXETL7V7EpF_HSx--11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="490" as="sourcePoint" />
+            <mxPoint x="410" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
