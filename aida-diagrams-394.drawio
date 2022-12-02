@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T02:54:21.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="cFKVL0Ok8AuNlKU-UaV9" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T02:55:23.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mDLFM3pKxJaaY_lVIARU" version="20.6.0" type="github">
   <diagram id="xdz3pwgSR_wqxvYa8TG_" name="Page-1">
     <mxGraphModel dx="946" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,6 +70,9 @@
         </mxCell>
         <mxCell id="pzktmZQztW74WQaNHcbx-23" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="855" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Glw_iH2KXRrhDjnAXToU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Glw_iH2KXRrhDjnAXToU-1" target="pzktmZQztW74WQaNHcbx-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Glw_iH2KXRrhDjnAXToU-1" value="人工收集需要新增或更新ULAN ID的Artist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="198.75" y="220" width="241.26" height="60" as="geometry" />
